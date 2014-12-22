@@ -1,0 +1,3 @@
+jmeterProperties: "/path/to/your/jmeter/bin/jmeter.properties"
+jmeterHome: "/path/to/your/jmeter"
+jmxFilePath: "/path/to/your/jmeter/extras/Test.jmx"
